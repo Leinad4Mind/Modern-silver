@@ -237,16 +237,18 @@ ol ol ul, ol ul ul, ul ol ul, ul ul ul {
 }
 
 .forabg {
-	background: transparent none repeat-x 0 0;
-	margin-bottom: 4px;
-	padding: 8px 2px 2px 2px;
-	clear: both;
-	border-radius: 2px;
+	border: 1px solid #A8A59F;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+	height: 20px;
+	margin-top: 9px;
+	padding-bottom: 5px;
+	padding-top: 5px;
 }
 
 .forumbg {
 	background: transparent none repeat-x 0 0;
-	margin-bottom: 4px;
+	margin-bottom: 1px;
 	padding: 8px 2px 2px 2px;
 	clear: both;
 	border-radius: 2px;
