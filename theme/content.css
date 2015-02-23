@@ -139,7 +139,7 @@ li.header dl.icon dt, li.header dl.icon dd {
 
 li.header dl.icon dt .list-inner {
 	/* Tweak for headers alignment when folder icon used */
-	padding-left: 0;
+	padding-left: 7px;
 	padding-right: 50px;
 }
 

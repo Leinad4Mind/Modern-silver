@@ -130,8 +130,9 @@
 	<!-- ENDIF -->
 
 	<!-- IF topicrow.S_FIRST_ROW or not topicrow.S_TOPIC_TYPE_SWITCH -->
-		<div class="forumbg<!-- IF topicrow.S_TOPIC_TYPE_SWITCH and (topicrow.S_POST_ANNOUNCE or topicrow.S_POST_GLOBAL) --> announcement<!-- ENDIF -->">
+		<div class="<!-- IF topicrow.S_TOPIC_TYPE_SWITCH and (topicrow.S_POST_ANNOUNCE or topicrow.S_POST_GLOBAL) --> announcement<!-- ENDIF -->">
 		<div class="inner">
+		<div class="forumbg">
 		<ul class="topiclist">
 			<li class="header">
 				<dl class="icon">
@@ -142,6 +143,7 @@
 				</dl>
 			</li>
 		</ul>
+		</div>
 		<ul class="topiclist topics">
 	<!-- ENDIF -->
 
