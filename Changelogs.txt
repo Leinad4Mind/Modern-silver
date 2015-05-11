@@ -1,0 +1,32 @@
+Changelogs:
+
+1.0.1
+
+    * Remove unnecessary files in template folder
+    * Fix bugs in notification
+
+
+
+1.0.2
+
+    * 100% validation from w3.org
+
+
+
+1.1.0
+
+    * Update to phpBB 3.1.3
+    * Fix Some Bugs
+
+
+
+1.2.0
+
+    * Update Font Awesome to 4.3.0
+    * Change a bit Forum lists
+    * Fix Some Bugs
+
+
+
+1.3.0
+    * Update for phpBB 3.1.4
