@@ -791,6 +791,7 @@ Colours and backgrounds for buttons.css
 .icon-logout > a:before 			{ content: "\f011"; }
 .icon-mark:before 					{ content: "\f046"; }
 .icon-mark-read > a:before			{ content: "\f046"; }
+.icon-mchat > a:before 				{ content: "\f0e6"; }
 .icon-mcp > a:before 				{ content: "\f0e3"; }
 .icon-members > a:before 			{ content: "\f0c0"; }
 .icon-newspage > a:before 			{ content: "\f0a1"; }
